@@ -1,6 +1,6 @@
 # Matrix-valued shortest paths
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-brightgreen)]([https://arxiv.org/abs/2110.09994](https://arxiv.org/abs/2112.04165)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-brightgreen)](https://arxiv.org/abs/2112.04165)
 
 Code for "Shortest Paths in Graphs with Matrix-Valued Edges: Concepts, Algorithm and Application to 3D Multi-Shape Analysis", published at 3DV 2021.
 
